@@ -6,5 +6,6 @@ public class FirstGit {
         System.out.println("I am happy");
         System.out.println("It is terribly difficult");
         System.out.println("Hello master");
+        System.out.println("Merge problem 1");
     }
 }
