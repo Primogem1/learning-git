@@ -5,5 +5,6 @@ public class FirstGit {
         System.out.println("Hello git develope !");
         System.out.println("I am happy");
         System.out.println("It is terribly difficult");
+        System.out.println("Hello master");
     }
 }
